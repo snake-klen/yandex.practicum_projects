@@ -7,6 +7,6 @@
 
 | Название проекта | Описание | Используемые библиотеки |
 | :-------------------- | :--------------------- |:---------------------------|
-| [Изучение закономерностей, определяющих успешность игр](https://github.com/snake-klen/yandex.practicum_projects/blob/main/1.Games/Games.ipynb) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры  | Python, Pandas, NumPy, Matplotlib|
+| [Изучение закономерностей, определяющих успешность игр](https://github.com/snake-klen/yandex.practicum_projects/blob/main/1.Games) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры  | Python, Pandas, NumPy, Matplotlib|
 | [Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](https://github.com/snake-klen/yandex.practicum_projects/blob/main/2.Project_cafe_Moscow/Project_cafe_Moscow.ipynb) | Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов |Python, Pandas, Seaborn, Plotly|
 | [Анализ пользовательского поведения в мобильном приложении](https://github.com/snake-klen/yandex.practicum_projects/blob/main/3.Mobile_app_actions/Mobile_app_actions.ipynb) | На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования |Python, Pandas, Matplotlib, Seaborn, Plotly, Scipy|
